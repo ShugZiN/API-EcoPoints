@@ -1,14 +1,14 @@
-ACORDO DE ENTREGA
+ACORDO DE ENTREGA - Sistemas Distribuídos e Mobile
 
 Partes:
 Desenvolvedor: Gabriel Henrique Martins, Thomas Sheldon, Samuel Andrade Resende
 
 Objeto:
-O jogo EcoPoints permite que o jogador colete lixo virtual de restaurantes McDonald’s e acumule pontos. Esses pontos podem ser trocados por descontos em produtos McDonald’s.
+Ecopoints, é um jogo ecológico e consciente, onde o jogador faz ações como coletar lixos virtuais de restaurantes McDonald’s a até plantar árvores. Utilizando das ODs como ideia. Ao jogar e com tempo de jogo, ele acumule pontos. Esses pontos podem ser trocados por descontos em produtos McDonald’s.
 
 Funcionamento:
 
-O jogador coleta lixo e ganha pontos com base na quantidade e tipo de item.
+O jogador ganha pontos por tempo jogado
 
 Os pontos podem ser trocados por descontos no McDonald's através de um código gerado no jogo.
 
